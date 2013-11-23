@@ -1,0 +1,22 @@
+<?php
+	return array(
+		'model/entities/File.php'=>'model/entities/File.php',
+		'model/containers/FileContainer.php'=>'model/containers/FileContainer.php',
+		'modules/file/Action_file_add.php'=>'modules/file/Action_file_add.php',
+		'modules/file/Action_file_delete.php'=>'modules/file/Action_file_delete.php',
+		'modules/file/Action_file_display.php'=>'modules/file/Action_file_display.php',
+		'modules/file/Action_file_displayAddForm.php'=>'modules/file/Action_file_displayAddForm.php',
+		'modules/file/Action_file_displayDeleteForm.php'=>'modules/file/Action_file_displayDeleteForm.php',
+		'modules/file/Action_file_displayEditForm.php'=>'modules/file/Action_file_displayEditForm.php',
+		'modules/file/Action_file_download.php'=>'modules/file/Action_file_download.php',
+		'modules/file/Action_file_edit.php'=>'modules/file/Action_file_edit.php',
+		'modules/file/Action_file_index.php'=>'modules/file/Action_file_index.php',
+		'templates/admin/file/add.php'=>'templates/admin/file/add.php',
+		'templates/admin/file/display.php'=>'templates/admin/file/display.php',
+		'templates/admin/file/displayAddForm.php'=>'templates/admin/file/displayAddForm.php',
+		'templates/admin/file/displayDeleteForm.php'=>'templates/admin/file/displayDeleteForm.php',
+		'templates/admin/file/displayEditForm.php'=>'templates/admin/file/displayEditForm.php',
+		'templates/admin/file/edit.php'=>'templates/admin/file/edit.php',
+		'templates/admin/file/index.php'=>'templates/admin/file/index.php'
+	);
+?>
